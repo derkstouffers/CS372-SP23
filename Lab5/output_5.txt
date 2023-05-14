@@ -1,0 +1,4 @@
+b (dist = 1)
+d (dist = 1)
+c (dist = 2)
+e (dist = 2)
